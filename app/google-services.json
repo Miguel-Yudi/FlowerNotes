@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1068386043622",
+    "project_id": "flowernotes-9c5ab",
+    "storage_bucket": "flowernotes-9c5ab.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068386043622:android:e4936e77acc04f1cd9dd27",
+        "android_client_info": {
+          "package_name": "com.example.flowernotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1MFsga71IVgD_fImywgJ9oi_2aaDHp90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
