@@ -6,4 +6,16 @@ Flower's Notes é um app de criação de notas, desenvolvido em Kotlin como tare
 ## Prints
 
 ### Login
-![Login](Prints/Login.png)
+![Login](https://github.com/Miguel-Yudi/FlowerNotes/blob/main/Prints/Login.png)
+
+### Cadastro
+![Cadastro](https://github.com/Miguel-Yudi/FlowerNotes/blob/main/Prints/Cadastro.png)
+
+### Página principal
+![Principal](https://github.com/Miguel-Yudi/FlowerNotes/blob/main/Prints/Principal.png)
+
+### Cadastro Nota
+![Principal](https://github.com/Miguel-Yudi/FlowerNotes/blob/main/Prints/CadastroNota.png)
+
+### Editar nota
+![Editar](https://github.com/Miguel-Yudi/FlowerNotes/blob/main/Prints/EditarNota.png)
